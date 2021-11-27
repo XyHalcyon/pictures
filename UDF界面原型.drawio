@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-27T08:11:17.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="GtSTlOM7mlwYS0zBOKpu" version="15.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-27T08:18:18.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="yZhc7eriKEoshPugMymu" version="15.8.6" type="github" pages="2">
   <diagram id="4iuk9C3c1TCA9W_Shy5l" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="_fa85mMK6ymNcFbLeZfS-23" value="审计日志" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;comic=0;sketch=1;fontSize=15;fontColor=#000000;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-17">
           <mxGeometry y="156" width="140" height="26" as="geometry" />
         </mxCell>
-        <UserObject label="联盟详情" treeRoot="1" id="_fa85mMK6ymNcFbLeZfS-25">
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;联盟详情&lt;/font&gt;" treeRoot="1" id="_fa85mMK6ymNcFbLeZfS-25">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fontSize=15;fontColor=#0000FF;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-16">
             <mxGeometry x="160" y="39" width="710" height="171" as="geometry" />
           </mxCell>
@@ -133,7 +133,7 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_fa85mMK6ymNcFbLeZfS-40" value="自定义函数" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+        <mxCell id="_fa85mMK6ymNcFbLeZfS-40" value="&lt;font color=&quot;#0000ff&quot;&gt;自定义函数&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
           <mxGeometry width="60" height="25" relative="1" as="geometry">
             <mxPoint x="320" as="offset" />
           </mxGeometry>
@@ -155,6 +155,30 @@
         </mxCell>
         <mxCell id="_fa85mMK6ymNcFbLeZfS-44" value="可信计算环境" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
           <mxGeometry x="430" width="60" height="25.416666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-0" value="函数名" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="40" y="58" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-2" value="包名" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="120" y="58" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-6" value="合作方" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="315" y="58" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-5" value="方法名" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="235" y="58" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-4" value="添加时间" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="395" y="58" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-3" value="类名" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="180" y="58" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-7" value="描述" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="490" y="58" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAJzMptCtqDwiKWxb2wn-8" value="操作" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;labelBackgroundColor=#E6E6E6;comic=0;sketch=1;fillColor=none;" vertex="1" parent="_fa85mMK6ymNcFbLeZfS-38">
+          <mxGeometry x="550" y="58" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
